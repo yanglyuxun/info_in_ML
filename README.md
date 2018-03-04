@@ -1,6 +1,6 @@
 # Information Theory in NLP Classification
 
-See report.pdf for detail.
+See [`report.pdf`](report.pdf) for detail.
 
 
 
